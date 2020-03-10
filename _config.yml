@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Yaesol Kim
 tagline:          'CV'
 description:      'PhD Candidate in CS'
-url:              http://yaesol.github.io
+url:              http://yaesolkim.github.io
 baseurl:          /
 
 author:
