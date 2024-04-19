@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://yaesolkim.github.io/sitemap.xml
